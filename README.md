@@ -25,5 +25,5 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ---
 
-## 📁 Project Structure
+
 
